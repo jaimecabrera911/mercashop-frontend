@@ -1,0 +1,872 @@
+{
+    "list": [
+        {
+            "category": "Lácteos y huevos",
+            "discount": 50,
+            "products": [
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/huevo-rojo-aa-x-30-unidades.png",
+                    "name": "Huevo AA cubeta",
+                    "decription": "Una cubeta de huevos cualquiera.",
+                    "quantity": "30 unds",
+                    "price": 10890
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/HUEVOSA30-800x800.jpg",
+                    "name": "Huevo A cubeta",
+                    "decription": "Una cubeta de huevos cualquiera.",
+                    "quantity": "30 unds",
+                    "price": 9690
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/HUEVOS-GALLINAS-CONSENTIDAS-X-24---7700624662129-(1).jpg",
+                    "name": "Huevo Gallinas Consentidas",
+                    "decription": "Una cubeta de huevos cualquiera, pero más cara.",
+                    "quantity": "24 unds",
+                    "price": 12310
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/CUBETA_HUEVOS_BLANCOS.jpg",
+                    "name": "Huevo Blanco AA Ramo",
+                    "decription": "Una cubeta de huevos blancos cualquiera.",
+                    "quantity": "30 unds",
+                    "price": 12310
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/Santa-Reyes-X90-01.jpg",
+                    "name": "Huevo Blanco AA Rojo",
+                    "decription": "Una cubeta de huevos cualquiera.",
+                    "quantity": "90 unds",
+                    "price": 42990
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/ENTERA.png",
+                    "name": "Leche Entera Alpina Pack",
+                    "decription": "12 Bolsas de leche entera alpina.",
+                    "quantity": "1 Combo",
+                    "price": 30885
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/DESLACTOSADA.png",
+                    "name": "Leche Deslactosada Alpina Pack",
+                    "decription": "12 Bolsas de leche deslactosada alpina.",
+                    "quantity": "1 Combo",
+                    "price": 32085
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/COMBO_PARMALAT1.jpg",
+                    "name": "Six pack surtido Deslactosada y Entera",
+                    "decription": "12 Bolsas de leche deslactosada y entera parmalat.",
+                    "quantity": "1 Combo",
+                    "price": 26380
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/7702177009871.jpg",
+                    "name": "Leche Deslactosada Alquería",
+                    "decription": "Pague 5 lleve 6.",
+                    "quantity": "1.1 Lt",
+                    "price": 16530
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/leche-entera-alqueria.jpeg",
+                    "name": "Leche Entera Alquería",
+                    "decription": "Pague 5 lleve 6.",
+                    "quantity": "1.1 Lt",
+                    "price": 17990
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/7702001012084-(1).jpg",
+                    "name": "Queso Parmesano Alpina",
+                    "decription": "Rico queso rallado.",
+                    "quantity": "250 Gr",
+                    "price": 15272
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/7702222002468-QUESO-PARMESANO-RALLADO-X-100-G.jpg",
+                    "name": "Queso Crema Emmental",
+                    "decription": "Rico queso crema.",
+                    "quantity": "125 Gr",
+                    "price": 7693
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/7702001012084-(1).jpg",
+                    "name": "Queso Parmesano Alpina",
+                    "decription": "Rico queso rallado pero más pequeño.",
+                    "quantity": "100 Gr",
+                    "price": 6072
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/Parmesano-Pricesmart.jpg",
+                    "name": "Queso Parmesano Messana",
+                    "decription": "Rico queso parmessano.",
+                    "quantity": "1100 Gr",
+                    "price": 68490
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/7702001011315-(1).jpg",
+                    "name": "Queso Crema Cremosino",
+                    "decription": "Rico queso crema grande.",
+                    "quantity": "380 Gr",
+                    "price": 5032
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/finesse-bajo-en-grasa-200g.jpg",
+                    "name": "Queso Crema Finesse",
+                    "decription": "Rico queso crema bajo en grasa.",
+                    "quantity": "200 Gr",
+                    "price": 3832
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/7702001047406-(1).jpg",
+                    "name": "Yogurt Original Melocotón",
+                    "decription": "Rico yogurt alpina.",
+                    "quantity": "900 Gr",
+                    "price": 4872
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/7702001047390-(1).jpg",
+                    "name": "Yogurt Original Fresa",
+                    "decription": "Rico yogurt alpina.",
+                    "quantity": "900 Gr",
+                    "price": 4872
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/pestaña-pomar-33.jpg",
+                    "name": "Yogurt Ron con Pasas",
+                    "decription": "Rico yogurt Pomar.",
+                    "quantity": "4 Lt",
+                    "price": 23190
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/pestaña-pomar-34.jpg",
+                    "name": "Yogurt Guanabana",
+                    "decription": "Rico yogurt Pomar.",
+                    "quantity": "4 Lt",
+                    "price": 23190
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/7702001050420.png",
+                    "name": "Yogurt Original Multisabor",
+                    "decription": "Ricos yogurts alpina.",
+                    "quantity": "5 und",
+                    "price": 6552
+                }
+            ]
+        },
+        {
+            "category": "Abarrotes",
+            "discount": 0,
+            "products": [
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/Vitarroz-x-10kg.jpg",
+                    "name": "Arroz Blanco Supremo",
+                    "decription": "Rico arroz tradicional.",
+                    "quantity": "10 kg",
+                    "price": 36690                    
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/arroz-diana-10kg-800x800-(1).jpg",
+                    "name": "Arroz Blanco Diana",
+                    "decription": "Arroz Diana Vitamor.",
+                    "quantity": "10 kg",
+                    "price": 36621                    
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/arroz-roa-10kg-800x800.jpg",
+                    "name": "Arroz Blanco Roa",
+                    "decription": "Arroz Roa bien fortificado.",
+                    "quantity": "10 kg",
+                    "price": 41990                   
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/arroz-florhuila-10kg-800x800.jpg",
+                    "name": "Arroz Blanco Florhuila",
+                    "decription": "Rico arroz florhuila.",
+                    "quantity": "10 kg",
+                    "price": 41990                   
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/supremo-arroz-con-vitaminas.jpg",
+                    "name": "Arroz Blanco Supremo",
+                    "decription": "Rico arroz tradicional en paquetes.",
+                    "quantity": "25 Lb",
+                    "price": 45490                   
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/aceite-diana-vitamnas-3000.jpg",
+                    "name": "Aceite Vegetal Diana",
+                    "decription": "Con Vitaminas A y D.",
+                    "quantity": "3 Lt",
+                    "price": 18290                   
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/Bon-Life-Aceite-Vegetal-Soya-3L.jpg",
+                    "name": "Aceite Vegetal Bon Life",
+                    "decription": "Aceite vegetal pa todo.",
+                    "quantity": "3 Lt",
+                    "price": 18990                   
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/aceite-riquisimo-3L-800x800.jpg",
+                    "name": "Aceite Vegetal Riquísimo",
+                    "decription": "Como dice el nombre.",
+                    "quantity": "3 Lt",
+                    "price": 19790                   
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/607766166942.jpg",
+                    "name": "Aceite de Soya Member's",
+                    "decription": "Como dice el nombre.",
+                    "quantity": "5 Lt",
+                    "price": 33290                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/Aceites-cs5-(CurvasFinalizado)-05.jpg",
+                    "name": "Aceite de Oliva Extra Virgen",
+                    "decription": "Como dice el nombre.",
+                    "quantity": "1 Lt",
+                    "price": 39990                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/spaghetti-doria-1000g.jpg",
+                    "name": "Pasta Spaghetti Doria",
+                    "decription": "Delicioso spaghetti.",
+                    "quantity": "1000 Gr",
+                    "price": 3590                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/7702020113014-(1).jpg",
+                    "name": "Pasta Spaghetti La Muñeca",
+                    "decription": "Delicioso spaghetti.",
+                    "quantity": "500 Gr",
+                    "price": 2627                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/spaghetti-barilla-500g.jpg",
+                    "name": "Pasta Spaghetti N. 5",
+                    "decription": "Delicioso spaghetti Barila.",
+                    "quantity": "500 Gr",
+                    "price": 6190                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/7702085021736_H1C1.jpg",
+                    "name": "Pasta Spaghetti Monticello",
+                    "decription": "Delicioso spaghetti Monticello.",
+                    "quantity": "1 Kg",
+                    "price": 9790                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/macarron-doria-250g-800x800.jpg",
+                    "name": "Pasta Macarrón Doria",
+                    "decription": "Delicioso Macarrón Doria.",
+                    "quantity": "250 Gr",
+                    "price": 1690                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/panela-macris-bloque-800x800.jpg",
+                    "name": "Panela en Pastilla Macris",
+                    "decription": "Rica Panela.",
+                    "quantity": "950 Gr",
+                    "price": 4390                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/Pastillitas-Panela-Colombia-800x800.jpg",
+                    "name": "Panela Melcochuda en Pastillas",
+                    "decription": "Deliciosas minipanelas.",
+                    "quantity": "16 Und",
+                    "price": 8090                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/sal-refisal-500g-800x800.jpg",
+                    "name": "Sal Refisal",
+                    "decription": "Es salada.",
+                    "quantity": "500 Gr",
+                    "price": 790                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/REFISAL_SAL_ALTA_PUREZA_3000g.jpg",
+                    "name": "Sal Refisal",
+                    "decription": "Es salada.",
+                    "quantity": "3 Kg",
+                    "price": 3990                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/REFISAL_SAL_PARRILLA_454g.jpg",
+                    "name": "Sal Refisal Parrillera",
+                    "decription": "Es sal con sabor a parrilla.",
+                    "quantity": "454 Kg",
+                    "price": 5590                 
+                }
+            ]
+        },
+        {
+            "category": "Panadería y Arepas",
+            "discount": 30,
+            "products": [
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/bimbo-blanco-f.jpg",
+                    "name": "Pan Tajado Blanco",
+                    "decription": "Rico pan Bimbo.",
+                    "quantity": "600 Gr",
+                    "price": 4490                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/pan-santa-clara-extralargo-800x800.jpg",
+                    "name": "Pan Tajado Blanco Extra Largo",
+                    "decription": "Rico pan Santa Clara Extra Largo.",
+                    "quantity": "550 Gr",
+                    "price": 3352                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/LaArtesa-Pan-LinazaPasas-1-800x800.jpg",
+                    "name": "Pan Tajado Linaza y Pasas",
+                    "decription": "Pan artesanal de linaza y pasas.",
+                    "quantity": "525 Gr",
+                    "price": 6880                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/LaArtesa-Mogolla-1-800x800.jpg",
+                    "name": "Pan Mogolla Multigranos Artesa",
+                    "decription": "Mogollas de muchos granos.",
+                    "quantity": "224 Gr",
+                    "price": 3000                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/__0008_Arepa-de-queso-doblecrema-20u-x-500g-(1).jpg",
+                    "name": "Arepa Don Maíz",
+                    "decription": "Con rico queso doble crema.",
+                    "quantity": "20 Und",
+                    "price": 12990                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/X5-FRUTOS-ROJOS.jpg",
+                    "name": "Chocoramo Barra con Mermelada",
+                    "decription": "Simplementes deliciosos.",
+                    "quantity": "200 Gr",
+                    "price": 4500                 
+                }
+            ]
+        },
+        {
+            "category": "Café, Chocolate y Té",
+            "discount": 0,
+            "products": [
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/Chocolate-sol-con-azucar-500gr-(1).jpg",
+                    "name": "Chocolate de Mesa Sol",
+                    "decription": "Muy rico chocolate.",
+                    "quantity": "500 Gr",
+                    "price": 5391                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/7702007043402-h1c1.jpg",
+                    "name": "Chocolate de Mesa Corona",
+                    "decription": "Rico chocolate tradicional.",
+                    "quantity": "500 Gr",
+                    "price": 5990                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/7702088014124.jpg",
+                    "name": "Chocolate de Mesa Luker",
+                    "decription": "Rico chocolate con clavos y canela.",
+                    "quantity": "250 Gr",
+                    "price": 6500                
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/7702032252114-hero.jpg",
+                    "name": "Café Molido Sello Rojo",
+                    "decription": "Café tradicional.",
+                    "quantity": "500 Gr",
+                    "price": 8890                
+                }
+            ]
+        },
+        {
+            "category": "Galletas y Antojos",
+            "discount": 0,
+            "products": [
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/WhatsApp-Image-2018-12-10-at-11.35.49-AM.jpeg",
+                    "name": "Galletas Ducales Seis Tacos",
+                    "decription": "Simplementes deliciosas.",
+                    "quantity": "882 Gr",
+                    "price": 9890                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/WhatsApp-Image-2018-12-10-at-11.26.11-AM.jpeg",
+                    "name": "Galletas Saltín Noel Diez Tacos",
+                    "decription": "Simplementes deliciosas.",
+                    "quantity": "882 Gr",
+                    "price": 8890                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/CLUB-SOCIAL-ORIGINAL-18-UND.jpg",
+                    "name": "Galletas Salada Club Social",
+                    "decription": "Pague 14 lleve 18.",
+                    "quantity": "468 Gr",
+                    "price": 6190                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/piazza.jpg",
+                    "name": "Barquillos Piazza",
+                    "decription": "Ricos sabores surtidos.",
+                    "quantity": "5 Und",
+                    "price": 3672                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/gomas-grissly-Gusanos.jpg",
+                    "name": "Gomas Grissly Gusanos",
+                    "decription": "Ricas gomas surtidas con forma de gusano.",
+                    "quantity": "90 Gr",
+                    "price": 2090                 
+                }
+            ]
+        },
+        {
+            "category": "Pollo, Carne y Pescado",
+            "discount": 0,
+            "products": [
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/Avicampo-Ala-Sin-Costillar-Marinado-02.jpg",
+                    "name": "Alas de Pollo Avicampo",
+                    "decription": "Simplementes deliciosos.",
+                    "quantity": "3 Und",
+                    "price": 2490                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/237859---41123211-Filete-de-pechuga-Friko-90-g-(85-a-95g)-Cong-(1).jpg",
+                    "name": "Filetes de Pechuga de Pollo",
+                    "decription": "Pechuga marinada marca Friko.",
+                    "quantity": "850 Gr",
+                    "price": 20290                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/goulash-centro-crudo.jpg",
+                    "name": "Goulash de Centro de Pierna & Viento",
+                    "decription": "Se ve deliciosa.",
+                    "quantity": "450 Gr",
+                    "price": 11120                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/carne-de-pierna-crudo.jpg",
+                    "name": "Carne de Pierna para asar",
+                    "decription": "Ancla y viento.",
+                    "quantity": "450 Gr",
+                    "price": 8590                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/Filete-de-tilapiax2.png",
+                    "name": "Filete de Tilapia",
+                    "decription": "Ancla y viento.",
+                    "quantity": "1 Kg",
+                    "price": 21885                 
+                }
+            ]
+        },
+        {
+            "category": "Carnes frías y Embutidos",
+            "discount": 0,
+            "products": [
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/salchicha-pollo-pietran-800x800.jpg",
+                    "name": "Salchicha Pietrán de Pollo",
+                    "decription": "Deliciosas salchichas.",
+                    "quantity": "350 Gr",
+                    "price": 12590                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/Salchicha-supercelofan.jpg",
+                    "name": "Salchicha Supercelofan Koller",
+                    "decription": "Deliciosas salchichas Koller.",
+                    "quantity": "620 Gr",
+                    "price": 21500                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/jamon-ideal-rica-800x800.jpg",
+                    "name": "Jamón Rica Ideal",
+                    "decription": "Rico jamón.",
+                    "quantity": "400 Gr",
+                    "price": 6990                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/Chorizo-Ranchera-Premium-800x800.jpg",
+                    "name": "Chorizo Premium Ranchera",
+                    "decription": "Rico y delicioso chorizo.",
+                    "quantity": "520 Gr",
+                    "price": 16190                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/Mix-Madurados-Lomo-Chorizo-80g-Ref.-679.jpg",
+                    "name": "Mix de Madurados Lomo Chorizo Vilaseca",
+                    "decription": "Rico y delicioso lomo chorizo.",
+                    "quantity": "80 Gr",
+                    "price": 25500                 
+                }
+            ]
+        },
+        {
+            "category": "Frutas y Verduras",
+            "discount": 0,
+            "products": [
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/mandarina-murcott.jpg",
+                    "name": "Mandarina Importada Murcott",
+                    "decription": "Dulces mandarinas.",
+                    "quantity": "1.5 Kg",
+                    "price": 14000                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/ciruela-importada.jpg",
+                    "name": "Ciruela Importada Bandeja",
+                    "decription": "Dulces ciruelas.",
+                    "quantity": "500 Gr",
+                    "price": 8000                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/Mix-Importados-2-(1).jpg",
+                    "name": "Estuche de frutas importadas",
+                    "decription": "Dulces ciruelas.",
+                    "quantity": "2 Kg",
+                    "price": 16000                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/uvas-verdes.jpg",
+                    "name": "Uva Verde sin semilla",
+                    "decription": "Deliciosas uvas en bandeja.",
+                    "quantity": "500 Gr",
+                    "price": 14000                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/granadilla-merqueo-800x800-02.jpg",
+                    "name": "Granadilla x Bolsa",
+                    "decription": "4 und Aprox.",
+                    "quantity": "450 Gr",
+                    "price": 4150                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/lulo-merqueo-800x800.jpg",
+                    "name": "Lulo x Bandeja",
+                    "decription": "6 und Aprox.",
+                    "quantity": "600 Gr",
+                    "price": 3500                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/cebolla-roja-merqueo-800x800-02.jpg",
+                    "name": "Cebolla Roja",
+                    "decription": "3-5 und Aprox.",
+                    "quantity": "600 Gr",
+                    "price": 3650                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/lechuga-crespa-merqueo-800x800-01.jpg",
+                    "name": "Lechuga Crespa",
+                    "decription": "Fresca lechuga.",
+                    "quantity": "180 Gr",
+                    "price": 2000                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/Platanos.jpg",
+                    "name": "Platano Maduro",
+                    "decription": "Delicioso platano por paquete.",
+                    "quantity": "1.5 Kg",
+                    "price": 2500                 
+                }
+            ]
+        },
+        {
+            "category": "Licores",
+            "discount": 40,
+            "products": [
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/Aguardiente-amarilloManzanares-750Ml-800x800.jpg",
+                    "name": "Aguardiente Amarillo Manzanares",
+                    "decription": "Rico aguardiente.",
+                    "quantity": "750 Ml",
+                    "price": 42990                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/Nectar_verde_1000-(1).jpg",
+                    "name": "Aguardiente Néctar",
+                    "decription": "Club verde caja litro.",
+                    "quantity": "1000 Ml",
+                    "price": 34490                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/Nectar_verde_1000-(1).jpg",
+                    "name": "Whisky Johnnie Walker",
+                    "decription": "Club verde caja litro.",
+                    "quantity": "1 Lt",
+                    "price": 61590                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/WHISKY-GLENFIDDICH-12-ANOS.jpg",
+                    "name": "Whisky Glennfiddich",
+                    "decription": "12 años Single Malt.",
+                    "quantity": "750 ML",
+                    "price": 134890                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/jagermeister-frente-hielo-(1).jpg",
+                    "name": "Jagermeister",
+                    "decription": "Simplemente delicioso.",
+                    "quantity": "700 ML",
+                    "price": 91890                 
+                }
+            ]
+        },
+        {
+            "category": "Bebidas",
+            "discount": 0,
+            "products": [
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/AguaBrisa-SinGas-600ml-800x800.jpg",
+                    "name": "Agua Brisa",
+                    "decription": "Sin gas 600 Ml.",
+                    "quantity": "600 Ml",
+                    "price": 1590                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/POSTOBON-ACQUA-FRUTOS-ROJOS-2.5L.jpg",
+                    "name": "Postobon Acqua",
+                    "decription": "Frutos Rojos Pet",
+                    "quantity": "2500 Ml",
+                    "price": 4190                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/POSTOBON-ACQUA-FRUTOS-VERDES-2.5L.jpg",
+                    "name": "Postobon Acqua",
+                    "decription": "Frutos Verdes Pet",
+                    "quantity": "2500 Ml",
+                    "price": 4190                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/POSTOBON-ACQUA-FRUTOS-VERDES-2.5L.jpg",
+                    "name": "Gaseosa Coca Cola x6",
+                    "decription": "Deliciosa coca cola en lata.",
+                    "quantity": "235 Ml",
+                    "price": 8790                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/7702609010215.jpg",
+                    "name": "Gaseosa Kola Roman x6",
+                    "decription": "Deliciosa Kola Roman en lata.",
+                    "quantity": "235 Ml",
+                    "price": 7890                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/jugos-hit-surtido-12-pack.jpg",
+                    "name": "Hit pague 10 lleve 12",
+                    "decription": "Surtido tetrapack 12 Und.",
+                    "quantity": "200 Ml",
+                    "price": 9690                 
+                }
+            ]
+        },
+        {
+            "category": "Mascotas",
+            "discount": 15,
+            "products": [
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/dog_chow_adulto_razas_medianas_y_grandes_nueva_imagen_1_1-min-min.jpg",
+                    "name": "Concentrado Dog Chow Adulto",
+                    "decription": "Medianos y Grandes.",
+                    "quantity": "8 Kg",
+                    "price": 83990                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/7703090954057-croquetas.jpg",
+                    "name": "Concentrado Ringo Adulto",
+                    "decription": "Croquetas.",
+                    "quantity": "20 Kg",
+                    "price": 57490                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/7703090942023-Ringo-Premium-2-Kg.jpg",
+                    "name": "Concentrado Ringo Premium",
+                    "decription": "Croquetas.",
+                    "quantity": "2 Kg",
+                    "price": 7890                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/MIRRINGOGATICOSX1KG-1.jpg",
+                    "name": "Concentrado Mirringo Gatitos",
+                    "decription": "Comida para gatitos.",
+                    "quantity": "1 Kg",
+                    "price": 8290                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/MIRRINGOADULTOX1KG-1.jpg",
+                    "name": "Concentrado Mirringo",
+                    "decription": "Comida para gatos.",
+                    "quantity": "1 Kg",
+                    "price": 5890                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/Galletas-Sandwitch-lopets.jpg",
+                    "name": "Galletas Lopets Sandwich",
+                    "decription": "Snacks para perros.",
+                    "quantity": "200 Gr",
+                    "price": 5190                 
+                }
+            ]
+        },
+        {
+            "category": "Aseo del hogar",
+            "discount": 0,
+            "products": [
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/11926-PH-ExtGrande-x12-alta.png",
+                    "name": "Papel Higiénico Familia",
+                    "decription": "Acolchamax Extragrande Triple Hoja.",
+                    "quantity": "12 Und",
+                    "price": 15990                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/FAMILIA_ELIMINADOR_OLORES_JARDÍN.jpg",
+                    "name": "Eliminador de Olores Familia",
+                    "decription": "Baño Jardín Primaveral.",
+                    "quantity": "300 Ml",
+                    "price": 13690                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/aXION.jpg",
+                    "name": "Lavaplatos Líquido Axion",
+                    "decription": "Con aroma a Limón.",
+                    "quantity": "1.5 Lt",
+                    "price": 10490                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/7702425679467.jpg",
+                    "name": "Paños de Cocina Duramax Scott",
+                    "decription": "Reutilizables.",
+                    "quantity": "1 Und",
+                    "price": 16590                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/Limpia-Ya2_0003_7702037873048.jpg",
+                    "name": "Guantes LimpiaYa Negro y Amarillo",
+                    "decription": "Talla 8.",
+                    "quantity": "2 Und",
+                    "price": 3390                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/COMBO_BINNER.jpg",
+                    "name": "Kit Desinfección",
+                    "decription": "Total Binner Sanos.",
+                    "quantity": "4 Und",
+                    "price": 72290                 
+                }
+            ]
+        },
+        {
+            "category": "Cuidado de la Ropa",
+            "discount": 0,
+            "products": [
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/doypack_ak1_liquido_.jpg",
+                    "name": "Detergente Líquido Floral",
+                    "decription": "Doypack Ak-1.",
+                    "quantity": "1.8 Lt",
+                    "price": 9990                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/detergente-liquido-woolite-megapack.jpg",
+                    "name": "Detergente Líquido Woolite",
+                    "decription": "Todos los días Galón.",
+                    "quantity": "3.7 Lt",
+                    "price": 29790                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/detergente-en-polvo-4-kg.jpg",
+                    "name": "Detergente Polvo Ariel",
+                    "decription": "Revitacolor.",
+                    "quantity": "4 Kg",
+                    "price": 30990                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/top-ultra-4k-floral.jpg",
+                    "name": "Detergente Polvo Top",
+                    "decription": "Ultra Floral.",
+                    "quantity": "4 Kg",
+                    "price": 25290                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/Suavitel-6lt.jpg",
+                    "name": "Suavizante Suavitel Fresca",
+                    "decription": "Primavera Pack x 2.",
+                    "quantity": "6 Lt",
+                    "price": 29990                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/vanish-liquido-3785ml.jpg",
+                    "name": "Desmanchador Líquido Vanish",
+                    "decription": "Rosa Botella.",
+                    "quantity": "3.7 Lt",
+                    "price": 20690                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/Jabon-reyx4-800x800.jpg",
+                    "name": "Jabón en Barra Rey",
+                    "decription": "Jabón en barra.",
+                    "quantity": "300 Gr",
+                    "price": 5690                 
+                }
+            ]
+        },
+        {
+            "category": "Cuidado personal",
+            "discount": 0,
+            "products": [
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/7753442351034-(1).jpg",
+                    "name": "Creama Dental Colgate",
+                    "decription": "Triple Acción Blancura x 3.",
+                    "quantity": "225 Ml",
+                    "price": 11990                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/7702035432339.jpg",
+                    "name": "Enjuague Bucal Listerine",
+                    "decription": "Cool Mint.",
+                    "quantity": "500 Ml",
+                    "price": 13690                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/H&S_SHAMPOO_PROTECCION-(1).jpg",
+                    "name": "Shampoo Control Caspa",
+                    "decription": "Protección caída con cafeína.",
+                    "quantity": "700 Ml",
+                    "price": 25790                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/7509552843026-1-(1).jpg",
+                    "name": "Shampoo Elvive Dream",
+                    "decription": "Long Liss L'Oréal.",
+                    "quantity": "400 Ml",
+                    "price": 18590                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/7501006721317-1-(3).jpg",
+                    "name": "Shampoo Elvive Dream",
+                    "decription": "Long Liss L'Oréal.",
+                    "quantity": "400 Ml",
+                    "price": 18590                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/7509552843026-1-(1).jpg",
+                    "name": "Acondicionador Pro-V",
+                    "decription": "Restauración Pantene.",
+                    "quantity": "400 Ml",
+                    "price": 19890                 
+                },
+                {
+                    "image": "https://d50xhnwqnrbqk.cloudfront.net/images/products/app/7702045556636.jpg",
+                    "name": "Desodorante en Aerosol",
+                    "decription": "Protección contra manchas.",
+                    "quantity": "160 Ml",
+                    "price": 15190                 
+                }
+            ]
+        }
+    ]
+}
